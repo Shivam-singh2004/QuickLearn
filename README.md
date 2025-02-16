@@ -59,6 +59,6 @@ The Course QuickLearn App allows users to browse and purchase courses, while adm
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/course-selling-app.git
+   git clone https://github.com/your-username/QuickLearn.git
    cd course-selling-app/backend
    ```
